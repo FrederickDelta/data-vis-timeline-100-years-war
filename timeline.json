@@ -56,6 +56,15 @@
       "group": "Notable of England"
     },
     {
+      "start_date": { "year": 911 },
+      "end_date": { "year": 1066 },
+      "text": {
+        "headline": "Duke of Normandy",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "group": "Phase"
+    },
+    {
       "start_date": { "year": 1066 },
       "end_date": { "year": 1087 },
       "text": {
@@ -64,6 +73,15 @@
       },
       "media": { "url": "./media/Kings_EN/1066_William_I.jpg" },
       "group": "Kings of England"
+    },
+    {
+      "start_date": { "year": 1066 },
+      "end_date": { "year": 1337 },
+      "text": {
+        "headline": "King of England, but pay homage to King of France as a vassal",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+      },
+      "group": "Phase"
     },
     {
       "start_date": { "year": 1137 },
